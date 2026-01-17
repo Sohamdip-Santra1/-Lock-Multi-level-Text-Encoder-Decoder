@@ -28,10 +28,7 @@ A compact, terminal-based encryption tool that encodes and decodes text using mu
 Download the latest release (Windows `.exe`) from the Releases section:
 
 **Download (latest release):**
-`https://github.com/<your-username>/lock/releases/latest` ← *replace `<your-username>` with your GitHub username*
-
-> If you upload `Lock.exe` directly to the repo, link it here:
-> `./Lock.exe` (not recommended if file size close to GitHub limits — prefer Releases)
+`https://github.com/Sohamdip-Santra1/-Lock-Multi-level-Text-Encoder-Decoder/releases` 
 
 ---
 
